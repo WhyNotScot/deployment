@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deployment/static/css/main.d75cb852.css",
+    "main.js": "/deployment/static/js/main.77112e97.js",
+    "static/media/cole.jpg": "/deployment/static/media/cole.00f6d93cb0a97465fc3a.jpg",
+    "static/media/Texas_State_University.png": "/deployment/static/media/Texas_State_University.1245d24591515017f328.png",
+    "static/media/address.png": "/deployment/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/deployment/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/deployment/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/deployment/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/deployment/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/deployment/index.html",
+    "main.d75cb852.css.map": "/deployment/static/css/main.d75cb852.css.map",
+    "main.77112e97.js.map": "/deployment/static/js/main.77112e97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75cb852.css",
+    "static/js/main.77112e97.js"
+  ]
+}
