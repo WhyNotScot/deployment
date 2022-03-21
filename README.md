@@ -1,3 +1,5 @@
+Welcome to the codebase for my website. I use react with JS(x) and CSS to create all of my compenents. Feel free to look around.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
