@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deployment/static/css/main.d75cb852.css",
+    "main.css": "/deployment/static/css/main.6cd8560d.css",
     "main.js": "/deployment/static/js/main.4d080179.js",
     "static/media/cole.jpg": "/deployment/static/media/cole.00f6d93cb0a97465fc3a.jpg",
     "static/media/Texas_State_University.png": "/deployment/static/media/Texas_State_University.1245d24591515017f328.png",
@@ -10,11 +10,11 @@
     "static/media/phone.png": "/deployment/static/media/phone.d90a6d23cf5129d853bb.png",
     "static/media/moon.png": "/deployment/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/deployment/index.html",
-    "main.d75cb852.css.map": "/deployment/static/css/main.d75cb852.css.map",
+    "main.6cd8560d.css.map": "/deployment/static/css/main.6cd8560d.css.map",
     "main.4d080179.js.map": "/deployment/static/js/main.4d080179.js.map"
   },
   "entrypoints": [
-    "static/css/main.d75cb852.css",
+    "static/css/main.6cd8560d.css",
     "static/js/main.4d080179.js"
   ]
 }
