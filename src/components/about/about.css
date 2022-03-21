@@ -85,7 +85,7 @@
   }
 
   .a-card {
-    height: 30vh;
+    height: 0vh;
   }
 
   .a-card.bg, .a-award {
